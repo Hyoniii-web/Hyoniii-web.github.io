@@ -1,10 +1,6 @@
 ---
 layout: post
-comments: true
-date: 2020-03-23
-title: "깃허브(Github)로 블로그 만들기 일지"
-description: "Github 설치 및 jekyll 테마 적용하기"
-subject: blog
+title: 깃허브(Github)로 블로그 만들기 일지
 tags:
   - jekyll
   - github
