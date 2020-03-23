@@ -1,13 +1,14 @@
---
-layout:post
-title:"깃허브(Github)로 블로그 만들기 일지"
-subtitle: "깃허브 설치 및 jekyll 테마 적용하기"
-blog:true
-text:true
-comments:true
-author:"Kim Coder"
-tags:[jekyll, github]
---
+---
+layout: post
+comments: true
+date: 2020-03-23
+title: "깃허브(Github)로 블로그 만들기 일지"
+description: "Github 설치 및 jekyll 테마 적용하기"
+subject: blog
+tags:
+  - jekyll
+  - github
+---
 
 개발자로서 하루하루 공부하는 것들을 그냥 스치듯 넘기지 않고 기록해 둘 만한 나만의 블로그가 필요했다. 네이버 블로그는 너무 개인의, 일상 이야기만 있어서 개발자로서의 이야기를 담기에는 분위기가 너무 달랐다. 그래서 깃허브를 이용한 기술블로그를 만들기로 결심했다.
 
