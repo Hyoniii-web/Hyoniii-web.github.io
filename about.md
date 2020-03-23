@@ -4,12 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+코딩을 연구하고, 즐기고, 내 것으로 만들기 위해 노력하는 프론트엔드 개발자입니다.
 
-### More Information
+### Main Skill
 
-A place to include any other types of information that you'd like to include about yourself.
+<ul class="Skill">
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>React</li>
+    <li>Node.js</li>
+</ul>
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[by_kairos@naver.com](mailto:by_kairos@naver.com)
