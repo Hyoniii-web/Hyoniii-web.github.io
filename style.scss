@@ -56,7 +56,7 @@ h5 {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 24px;
   a {
     color: inherit;
   }
@@ -82,6 +82,7 @@ h6 {
 p {
   color: $text-color;
   margin: 15px 0;
+  font-size: 0.9rem;
 }
 
 a {
@@ -372,9 +373,9 @@ img {
   color: $darkGray;
   cursor: pointer;
   font-family: $helveticaNeue;
-  font-weight: 300;
+  font-weight: 700;
   font-size: 28px;
-  letter-spacing: 1px;
+  letter-spacing: -1px;
 }
 
 .site-description {
@@ -435,6 +436,7 @@ nav {
     font-size: $small-font-size;
     color: $base-lighten-color;
     margin-right: 3px;
+    font-family: "Nanum Gothic", sans-serif;
   }
 
   .tag {
@@ -456,6 +458,7 @@ nav {
         color: $tag-index-label-color;
         background-color: $tag-index-label-background-color;
         border-radius: 3px;
+        font-weight: 500;
       }
     }
   }
