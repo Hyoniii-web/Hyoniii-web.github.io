@@ -3,33 +3,32 @@
 #
 
 # Name of your site (displayed in the header)
-name: Kiko Now
+name: Kim Coder
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Web Frontend Developer
 
 #
 # Flags below are optional
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/aweekj/kiko-now/master/images/jekyll-logo.png
-
+avatar: https://avatars0.githubusercontent.com/u/61853524?s=460&u=5ab247763790d7e0c276223d7eb2c0673705e662&v=4
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
-  - name: Blog
-    url: /
-  - name: About
-    url: /about
+  - name: Coding
+    url: /coding
+  - name: IT story
+    url: /it
+  - name: Book
+    url: /book
   - name: Archive
     url: /archive
-  - name: Tags
-    url: /tags
-  - name: Theme
-    url: https://github.com/AWEEKJ/kiko-now
+  - name: About
+    url: /about
 
 # Pagination
 paginate: 5
@@ -38,10 +37,10 @@ paginate: 5
 footer-links:
   behance: # https://www.behance.net/<username>
   dribbble:
-  email:
+  email: by_kairos@naver.com
   facebook:
   flickr:
-  github: AWEEKJ/kiko-now
+  github:
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
@@ -49,11 +48,11 @@ footer-links:
   rss: # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   tumblr: # https://<username>.tumblr.com
-  twitter: jekyllrb
+  twitter:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # Text under the icons in footer
-footer-text: © 2017 Kiko Now
+footer-text: © 2020 김가현(Kim Coder)
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
@@ -90,7 +89,7 @@ kramdown:
   syntax_highlighter: rouge
   syntax_highlighter_opts:
     # Use existing pygments syntax highlighting css
-    css_class: 'highlight'
+    css_class: "highlight"
 
 # Set the Sass partials directory, as we're using @imports
 sass:
