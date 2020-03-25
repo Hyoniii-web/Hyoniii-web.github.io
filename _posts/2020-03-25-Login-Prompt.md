@@ -19,7 +19,7 @@ If문에 맞게 로그인 구조를 만들 수 있다.
   <li>아무것도 입력하지 않았거나 취소를 누르면 "취소되었습니다."가 출력됨.</li>
   <li>틀린 값을 넣으면 "아이디가 틀렸습니다."가 출력됨</li>
 </ol>
-
+<br/>
 1번대로 올바른 답을 적었을 때 <u>패스워드를 묻는 창</u>에서
 <ol style="font-size:0.9rem">
   <li>Master라는 올바른 답을 적으면 "환영합니다!"가 출력됨</li>
@@ -29,7 +29,7 @@ If문에 맞게 로그인 구조를 만들 수 있다.
 
 **The Schema:**
 <br>
-<img src="https://user-images.githubusercontent.com/61853524/77509803-be0c5480-6eb0-11ea-97ff-bf58c61f52c0.png" style="text-align:center"></img>
+<img src="https://user-images.githubusercontent.com/61853524/77509803-be0c5480-6eb0-11ea-97ff-bf58c61f52c0.png" style="text-align:center"/>
 
 출처: [https://javascript.info/task/check-login](#)
 
