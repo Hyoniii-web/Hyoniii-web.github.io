@@ -19,6 +19,8 @@ tags:
 3. 잘못도니 값을 넣으면 "패스워드가 틀렸습니다."
 
 The Schema:{: .center}
+<img src="https://user-images.githubusercontent.com/61853524/77509803-be0c5480-6eb0-11ea-97ff-bf58c61f52c0.png"></img>
+
 출처: [https://javascript.info/task/check-login]#
 
 > **해답**
