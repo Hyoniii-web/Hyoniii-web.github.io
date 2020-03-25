@@ -1,6 +1,6 @@
 ---
 layout: post
-title: javaScript Study <Prompt와 If문으로 Login구조 만들기>
+title: Prompt와 If문으로 Login구조 만들기
 tags:
   - javaScript
 ---
