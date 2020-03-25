@@ -31,7 +31,7 @@ If문에 맞게 로그인 구조를 만들 수 있다.
 <br>
 <img src="https://user-images.githubusercontent.com/61853524/77509803-be0c5480-6eb0-11ea-97ff-bf58c61f52c0.png" style="text-align:center"/>
 
-출처: [https://javascript.info/task/check-login](#)
+출처: [https://javascript.info/task/check-login](https://javascript.info/task/check-login)
 
 # 해답
 
